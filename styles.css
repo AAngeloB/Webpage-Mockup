@@ -2,6 +2,18 @@
 	text-align: center;
 }
 
-body{
-	background-image: url(Capture.PNG);
+.usernames{
+	text-align: center;
+	margin-right: 5cm;
+	border-style: groove;
+	border-width: 1px;
+}
+
+.size{
+	width: 200px;
+	height: 200px;
+	margin: auto;
+	padding: 10px;
+	margin-right: 5cm;
+	display: 50%;
 }
