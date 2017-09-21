@@ -5,15 +5,19 @@
 .usernames{
 	text-align: center;
 	margin-right: 5cm;
+	border: 1px;
 	border-style: groove;
 	border-width: 1px;
 }
 
-.size{
-	width: 200px;
-	height: 200px;
+.google{
+	width: 80px;
+	height: 80px;
 	margin: auto;
-	padding: 10px;
 	margin-right: 5cm;
-	display: 50%;
+	display: 70%;
+}
+
+p{
+	font-size: 50%; 
 }
