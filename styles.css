@@ -18,9 +18,14 @@
     background-color: white;
     background-position: 10px 10px; 
     background-repeat: no-repeat;
+    color: blue;
 }
 
 #butt{
 	position: relative;
 
+}
+
+#name{
+	color: blue;
 }
