@@ -2,15 +2,12 @@
     background-color: white;
     width: 300px;
     border: 5px groove;
-    padding: 10px;
-	margin top: auto;
-	margin-bottom: auto;
-	margin-left: auto;
-	margin-right: auto;
+    padding: 50px;
+    margin: auto;
 }
 
 #searchbar{
-    width: 130px;
+    width: 300px;
     box-sizing: border-box;
     border: 2px solid #ccc;
     border-radius: 4px;
@@ -19,13 +16,15 @@
     background-position: 10px 10px; 
     background-repeat: no-repeat;
     color: blue;
+    transform: width 0.4s ease-in-out;
 }
 
 #butt{
 	position: relative;
-
+    background-color: lightblue;
+    margin-left: 250px;
 }
 
-#name{
-	color: blue;
+.line{
+    line-height: 10%;
 }
